@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/yeni_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/yeni_icon_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.OtoparkSistemi"
+        tools:targetApi="31">
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyDyynJC04P_USAWmzvMZ-y29sOXv6vUVR8" />
+
+        <activity
+            android:name=".Iletisim"
+            android:exported="false"
+            android:label="@string/title_activity_iletisim"
+            />
+        <activity
+            android:name=".PersonelKayit"
+            android:exported="false" />
+        <activity
+            android:name=".OtoparkHarita"
+            android:exported="false" />
+        <activity
+            android:name=".PersonelGiris"
+            android:exported="false" />
+        <activity
+            android:name=".BaslangicSayfa"
+            android:exported="true"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

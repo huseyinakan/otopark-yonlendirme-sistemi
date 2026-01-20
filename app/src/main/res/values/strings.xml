@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Otopark Sistemi</string>
+    <string name="title_activity_iletisim">Iletisim</string>
+    <string name="normal_giris_buton">NORMAL GİRİŞ</string>
+</resources>
