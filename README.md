@@ -9,11 +9,12 @@ Uygulama; park alanlarının kategorize edilmesi, rol bazlı kullanıcı yöneti
 ## 📱 Uygulama İçi Görüntüler
 
 <p align="center">
-  <img src="screenshots/1_login.png" width="200"/>
-  <img src="screenshots/2_map.png" width="200"/>
-  <img src="screenshots/3_parking_status.png" width="200"/>
-  <img src="screenshots/4_categories.png" width="200"/>
-  <img src="screenshots/5_contact.png" width="200"/>
+  <img src="screenshots/1_anasayfa.png" width="200"/>
+  <img src="screenshots/2_normal_alan.png" width="200"/>
+  <img src="screenshots/3_personel_giris.png" width="200"/>
+  <img src="screenshots/4_personel_kaydol.png" width="200"/>
+  <img src="screenshots/5_engelli_alan.png" width="200"/>
+  <img src="screenshots/6_iletisim.png" width="200"/>
 </p>
 
 ---
