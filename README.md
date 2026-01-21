@@ -1,6 +1,22 @@
 # Akıllı Otopark Yönlendirme ve Yönetim Sistemi 🚗
 
-Bu proje, Android platformu üzerinde Java diliyle geliştirilmiş, otopark yönetimini dijitalleştiren ve kullanıcıları uygun park alanlarına yönlendiren bir mobil uygulamadır.
+Bu proje, **Android platformu** üzerinde **Java** diliyle geliştirilmiş, otopark yönetimini dijitalleştiren ve kullanıcıları uygun park alanlarına yönlendiren bir **mobil uygulamadır**.
+
+Uygulama; park alanlarının kategorize edilmesi, rol bazlı kullanıcı yönetimi ve harita destekli yönlendirme özellikleriyle akıllı otopark sistemlerinin temel işlevlerini mobil ortamda sunmayı amaçlamaktadır.
+
+---
+
+## 📱 Uygulama İçi Görüntüler
+
+<p align="center">
+  <img src="screenshots/1_login.png" width="200"/>
+  <img src="screenshots/2_map.png" width="200"/>
+  <img src="screenshots/3_parking_status.png" width="200"/>
+  <img src="screenshots/4_categories.png" width="200"/>
+  <img src="screenshots/5_contact.png" width="200"/>
+</p>
+
+---
 
 ## 🌟 Öne Çıkan Özellikler
 
